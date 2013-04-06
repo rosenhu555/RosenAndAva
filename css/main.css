@@ -128,9 +128,39 @@ ul.menu li a
 
 div#photo-container
 {
-	width:800px;
-	height:500px;
+	width:683px;
+	height:700px;
 	padding-top:34px;
+	margin-left:65px;
+}
+
+.photo-wrapper
+{
+	margin: 3px 6px 3px 0;
+	padding: 1px;
+	height: 120px;
+	overflow: hidden;
+	border: 1px solid #FFF;
+	float: left;
+	position: relative;
+}
+
+.photo-list img
+{
+	display: block;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	width: 160px;
+	height: 120px;
+	background-position: center
+}
+
+.photo-list .picture
+{
+	display: block;
+	overflow: hidden;
+	width: 160px;
+	height: 120px;
 }
 
 div#slides
