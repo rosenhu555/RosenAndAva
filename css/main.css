@@ -126,6 +126,13 @@ ul.menu li a
 	color: #ABABAB;
 }
 
+div#photo-container
+{
+	width:800px;
+	height:550px;
+	padding-top:34px;
+}
+
 div#photo-album
 {
 	width:683px;
